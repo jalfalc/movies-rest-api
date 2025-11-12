@@ -1,0 +1,24 @@
+{
+  "name": "movies-rest-api",
+  "version": "1.0.0",
+  "description": "Express API Rest server to work with JSON file and crud request",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalfalc/movies-rest-api.git"
+  },
+  "author": "Jorge Alfonso Alcalde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalfalc/movies-rest-api/issues"
+  },
+  "homepage": "https://github.com/jalfalc/movies-rest-api#readme",
+  "dependencies": {
+    "express": "5.1.0",
+    "zod": "4.1.12"
+  }
+}
